@@ -1,5 +1,3 @@
-<p align="center"> 
-
 # 🚀 | Sobre 
 ---
 Foi criado um consumido de api para demostrar meu conhecimento
@@ -18,6 +16,6 @@ com consumo de api
 Esse projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 ---
 
-***Feito por Gabriel***
-
+<p align="center">  
+ <strong>Feito por Gabriel</strong>
 </p>
