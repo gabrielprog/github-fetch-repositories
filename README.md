@@ -10,7 +10,7 @@ com consumo de api
 1. Sistema de paginação
 1. Filtro de estado
 2. Detalhamento do repositório
-3. armazena dados no localstorage
+3. Armazena dados no localstorage
 ---
 # 📝 | Licença
 Esse projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
