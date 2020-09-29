@@ -13,7 +13,9 @@ com consumo de api
 3. Armazena dados no localstorage
 ---
 # 📝 | Licença
-Esse projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
 ---
 
 <p align="center">  
