@@ -1,9 +1,10 @@
-# 🚀 | Sobre 
+## 🚀 | Sobre 
+
 ---
 Foi criado um consumido de api para demostrar meu conhecimento
 com consumo de api
 
-## Funcionalidades
+### Funcionalidades
 
 1. Consulta apenas repositórios validos
 1. Valida se o repositório já foi adicionado
@@ -12,9 +13,9 @@ com consumo de api
 2. Detalhamento do repositório
 3. Armazena dados no localstorage
 ---
-# 📝 | Licença
+## 📝 | Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
